@@ -1,4 +1,4 @@
-# RizzBot Recorder
+# RizzBot Recorder (Android)
 
 A Windows app that mirrors your Android phone on the PC over USB, records a profile scroll, and sends it to RizzBot as a new girl.
 
@@ -7,13 +7,13 @@ This repo holds the installer only. It is published here so anyone can download 
 ## What you need
 
 - A Windows 10 or 11 PC.
-- An **Android** phone running Android 5 or newer. iPhone is not supported by this app.
+- An **Android** phone running Android 5 or newer. For an **iPhone**, use the [RizzBot iPhone Recorder](https://github.com/rizzbotdev/rizzbot-iphone-recorder) instead: a separate app that mirrors the iPhone over Wi-Fi.
 - A USB cable that carries **data**, not a charge-only cable. The one that came with the phone is usually fine. If the phone charges but the app never sees it, try another cable or another USB port.
 - A RizzBot account.
 
 ## 1. Download and install
 
-Download **[RizzBotRecorder-setup.exe](https://github.com/rizzbotdev/rizzbot-recorder/releases/latest/download/RizzBotRecorder-setup.exe)** (latest version). Older versions are on the [releases page](https://github.com/rizzbotdev/rizzbot-recorder/releases).
+Download **[RizzBotRecorder-setup.exe](https://github.com/rizzbotdev/rizzbot-android-recorder/releases/latest/download/RizzBotRecorder-setup.exe)** (latest version). Older versions are on the [releases page](https://github.com/rizzbotdev/rizzbot-android-recorder/releases).
 
 Run it. It installs for your user only, so Windows asks for no admin rights, and it adds a Start Menu entry, an optional desktop shortcut and an uninstaller. Installing over an older version keeps the PC connected.
 
